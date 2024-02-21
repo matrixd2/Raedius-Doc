@@ -1,47 +1,47 @@
 ---
 sidebar_position: 1
+title: 快速开始
 ---
 
-# Tutorial Intro
+Raedius Web Console 是基于Web浏览器开发，用于管理YoSmart物联设备的云平台.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## 支持设备以及型号
 
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+* Hub/Speaker Hub
+  * YS1603-UC
+  * YS1604-UC
+* 水浸传感器
+  * YS7903-UC
+  * YS7904-UC
+  * YS7906-UC
+  * YS7916-UC
+* 声光报警器
+  * YS7103-UC
+  * YS7104-UC
+  * YS7105-UC
+* 插座
+  * YS6602-UC
+  * YS6604-UC
+* 操作手(阀门控制器)
+  * YS4909-UC
+  * YS5001-UC
+  * YS5002-UC
+  * YS5003-UC
+* 锁
+  * YS7606-UC
+  * YS7607-UC
+* 温湿度传感器
+  * YS8003-UC
+  * YS8004-UC
+  * YS8005-UC
+  * YS8006-UC
+  * YS8014-UC
+  * YS8015-UC
+* 温控器
+  * YS4002-UC
+  * YS4003-UC
+* 一氧化碳烟雾传感器
+  * YS7A01-UC
+* 门磁传感器
+  * YS7704-UC
+  * YS7706-UC
